@@ -1,3 +1,3 @@
-# AuraFlow with RoPE
+# AuraFlow with RoPE for ComfyUI
 
 
